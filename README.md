@@ -1,9 +1,11 @@
+<img align="right"  src="./img/img.png" width="45%" />
+
 # dockerContainer
 
 I discovered Docker and set up my first web server.
 
 ## Functional
-<img align="right"  src="./img/logo.png"  />
+
 
 - The container OS is debian buster.
 - Web server is set up with Nginx.
